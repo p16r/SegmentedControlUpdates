@@ -26,6 +26,7 @@
 		0575CDD124A481AF00057E3B /* ClosuresViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosuresViewController.swift; sourceTree = "<group>"; };
 		0575CDD324A49CE000057E3B /* TargetActionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetActionsViewController.swift; sourceTree = "<group>"; };
 		0575CDD524A4A0B900057E3B /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		0575CDD724A4B69200057E3B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		0575CDB124A4803800057E3B = {
 			isa = PBXGroup;
 			children = (
+				0575CDD724A4B69200057E3B /* README.md */,
 				0575CDBC24A4803800057E3B /* SegmentedControlUpdates */,
 				0575CDBB24A4803800057E3B /* Products */,
 			);

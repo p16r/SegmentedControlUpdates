@@ -12,4 +12,4 @@ been configured with an array of `UIAction`s.
 For more details about this demo app please read [the accompanying blog post on
 my site][0].
 
-[0]: prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14
+[0]: https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14
